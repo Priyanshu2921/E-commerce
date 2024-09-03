@@ -1,11 +1,9 @@
-import { ProductTab } from './ProductTab';
-import "./product.css";
+import { Header } from "./header";
 
 function App() {
   return (
     <>
-      <h2 style={{ textAlign: "center"}}>Block Buster deals</h2>
-      <ProductTab />
+      <Header />
     </>
   );
 }
