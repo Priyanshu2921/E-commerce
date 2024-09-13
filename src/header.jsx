@@ -23,7 +23,7 @@ export function Header() {
                     <div className="header_location">Delivering to New Delhi 110043</div>
                     <div className="update_location">
                         <EditLocationAltIcon />
-                        <button>Update Location</button>
+                        <button className="Locatio_update">Update Location</button>
                     </div>
                 </div>
                 <div className="search_bar">
@@ -57,18 +57,18 @@ export function Header() {
             <div className="header_navbar">
                 <p>All</p>
                 <p>Fresh</p>
-                <p>Amazon miniTV</p>
+                <p>AmazonminiTV</p>
                 <p>Sell</p>
                 <p>Best Sellers</p>
-                <p>Today's Deals</p>
+                <p>Today'sDeals</p>
                 <p>Mobiles</p>
-                <p>Customer Service</p>
+                <p>CustomerService</p>
                 <p>Prime</p>
                 <p>Electronics</p>
                 <p>Fashion</p>
-                <p>New Releases</p>
-                <p>Home & Kitchen</p>
-                <p>Amazon Pay</p>
+                <p>NewReleases</p>
+                <p>Home&Kitchen</p>
+                <p>AmazonPay</p>
                 <p>Computers</p>
             </div>
         </div>
